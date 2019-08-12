@@ -1,0 +1,14 @@
+github.com/golang/protobuf v1.3.2 h1:6nsPYzhq5kReh6QImI3k5qWzO4PEbvbIW2cwSfR/6xs=
+github.com/golang/protobuf v1.3.2/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/mysqto/isatty v0.0.11 h1:SXLcte048e833MmxRjkIlPz6EycArMZXyNkFmtlqBmk=
+github.com/mysqto/isatty v0.0.11/go.mod h1:s3kU8Y0QzabYmgJ0A4OX5s2Km8TjW8/OuQKDwYM8hZg=
+github.com/mysqto/log v0.0.0-20200121084100-12cd3ca29109 h1:/AuGr8yijnbJYnKyNfibwyPpDq45U9lAhtrA3U/lJ4s=
+github.com/mysqto/log v0.0.0-20200121084100-12cd3ca29109/go.mod h1:ovLpyItF6f1gLa7bnLL40NZd0kKkARWLj1xOjpJP2Ys=
+github.com/mysqto/to v0.0.0-20200306152939-081a6c13ee1c h1:zLjuOYP1PV5kRLCjpLtmsSsVwgyzDaUIAy+KK6QWCIU=
+github.com/mysqto/to v0.0.0-20200306152939-081a6c13ee1c/go.mod h1:lusfy1AFMyhp+M4fa3+whC7ulaiIyvEnZI4oBEsn7I0=
+github.com/nyaruka/phonenumbers v1.0.54 h1:vU9IUfiHrpu+lZcCkjEzDsCIdurQV8lxjrAdqW2osAU=
+github.com/nyaruka/phonenumbers v1.0.54/go.mod h1:sDaTZ/KPX5f8qyV9qN+hIm+4ZBARJrupC6LuhshJq1U=
+golang.org/x/sys v0.0.0-20200120151820-655fe14d7479 h1:LhLiKguPgZL+Tglay4GhVtfF0kb8cvOJ0dHTCBO8YNI=
+golang.org/x/sys v0.0.0-20200120151820-655fe14d7479/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
